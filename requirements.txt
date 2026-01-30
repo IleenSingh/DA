@@ -1,1 +1,3 @@
 ###jo bhi package download krna h woh isme  likhte hai
+#pip install -r requirements.txt  yeh lik k run krrenge toh jitne bhi package iss folder mai honge woh install hojayenge ya direct instal package bhi krr skte h
+numpy
